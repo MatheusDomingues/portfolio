@@ -1,0 +1,12 @@
+config
+scripts
+public
+node_modules
+coverage
+build
+dist
+styleguide
+smoke-test
+.ci
+.husky
+.vscode
